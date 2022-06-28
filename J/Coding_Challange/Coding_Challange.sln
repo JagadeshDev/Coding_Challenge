@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding_Challange", "Coding_Challange\Coding_Challange.csproj", "{DB5D63E1-F86D-4ECD-840D-C7ABE9BA7307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5D63E1-F86D-4ECD-840D-C7ABE9BA7307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5D63E1-F86D-4ECD-840D-C7ABE9BA7307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5D63E1-F86D-4ECD-840D-C7ABE9BA7307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5D63E1-F86D-4ECD-840D-C7ABE9BA7307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48F4717-6E80-4ADC-8C49-2F6BA655093D}
+	EndGlobalSection
+EndGlobal
